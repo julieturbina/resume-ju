@@ -5,22 +5,24 @@
 .juliet{
     height: 200px;
     width:125px;
-    border-radius: 100px;
+    border-radius: 500px;
+    border-width: 5px;
+    border-color: white;
 }
  .bg-1 { 
-    background-color: #46d4ed; /* blue**/
-    color: #ffffff;
+    background-color: rgb(221, 15, 240); /* blue**/
+    color:  #ffffff;
 }
 .bg-2 { 
-    background-color: #20beda ; /* darker blue */
+    background-color:  rgb(148, 13, 193); /* darker blue */
     color: #ffffff;
 }
 .bg-3 { 
-    background-color: #0397b1;  /* more darker blue */
+    background-color: rgb(221, 15, 240);  /* more darker blue */
     color: #ffffff;
 }
 .bg-4 { 
-    background-color: #036e8f; /* darkest blue */
+    background-color: rgb(148, 13, 193); /* darkest blue */
     color: #ffffff;
 }
 .icons{
