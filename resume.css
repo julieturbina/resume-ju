@@ -2,6 +2,11 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.juliet{
+    height: 200px;
+    width:125px;
+    border-radius: 100px;
+}
  .bg-1 { 
     background-color: #46d4ed; /* blue**/
     color: #ffffff;
@@ -17,4 +22,8 @@
 .bg-4 { 
     background-color: #036e8f; /* darkest blue */
     color: #ffffff;
+}
+.icons{
+    height: 50px;
+    width:50px;
 }
