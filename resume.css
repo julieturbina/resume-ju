@@ -2,20 +2,20 @@
     padding-top: 70px;
     padding-bottom: 70px;
 }
-.juliet{
-    height: 200px;
-    width:125px;
-    border-radius: 500px;
-    border-width: 5px;
-    border-color: white;
+.img-circle{
+    height: 175px;
+    /* width:125px;
+    border-radius: 800px;
+    border-width: 50px;
+    border-color: white; */
 }
  .bg-1 { 
-    background-color: rgb(221, 15, 240); /* blue**/
-    color:  #ffffff;
+    background-color: rgb(188, 220, 244); /* blue**/
+    color:  black;
 }
 .bg-2 { 
-    background-color:  rgb(148, 13, 193); /* darker blue */
-    color: #ffffff;
+    background-color:  rgb(188, 220, 244); /* darker blue */
+    color: black;
 }
 .bg-3 { 
     background-color: rgb(221, 15, 240);  /* more darker blue */
